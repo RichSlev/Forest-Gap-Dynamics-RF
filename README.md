@@ -1,4 +1,4 @@
-# Forest Gap Mapping and Gap Dynamics (Random Forest, R)
+# Forest Gap Mapping and Gap Dynamics via Machine Learning (Random Forest, R)
 Repository for a collaborative remote sensing project focused on the development and evaluation of Random Forest–based methods for mapping forest canopy gaps and gap dynamics from satellite image time series, conducted in collaboration with WSL (2024). The project maps forest canopy gaps from a multi-year satellite image time series and classifies **gap dynamics** between consecutive years (new vs expanding gaps).
 
 ## Overview
