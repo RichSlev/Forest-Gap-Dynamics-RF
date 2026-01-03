@@ -1,8 +1,5 @@
-# Forest-Gap-Dynamics-RF
-Random Forest–based mapping of Old Growth forest canopy gaps and gap dynamics from satellite image time series 
-
 # Forest Gap Mapping and Gap Dynamics (Random Forest, R)
-Repository for the Remote Sensing Group Project conducted during the **WSL Summer School on Old Growth Forest Research (2024)**. The project maps forest canopy gaps from a multi-year satellite image time series and classifies **gap dynamics** between consecutive years (new vs expanding gaps).
+Repository for a collaborative remote sensing project focused on the development and evaluation of Random Forest–based methods for mapping forest canopy gaps and gap dynamics from satellite image time series, conducted in collaboration with WSL (2024). The project maps forest canopy gaps from a multi-year satellite image time series and classifies **gap dynamics** between consecutive years (new vs expanding gaps).
 
 ## Overview
 Many study sites only have a reference gap map for a single year. This workflow uses that reference year to train a **Random Forest** classifier and then generates annual gap maps across the full satellite time series. Annual maps are compared year-to-year to quantify gap dynamics.
